@@ -1,0 +1,3 @@
+[submodule "demo/submodule-repo"]
+	path = demo/submodule-repo
+	url = https://github.com/pujadas02/submodule-repo.git
